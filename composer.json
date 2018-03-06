@@ -1,6 +1,6 @@
 {
   "name": "yiban/yiban",
-  "description": "A simple and mini PHP upload class.",
+  "description": "PHP SDK  for yiban",
   "license":"MIT",
   "require": {
     "php": ">=5.6"
