@@ -11,7 +11,7 @@
       "email": "qingchen.yyj@gmail.com"
     }
   ],
-  "minimum-stability": "stable",
+  "version": "1.0.0",
   "autoload": {
     "psr-4": {
       "yiban\\": "src/"
