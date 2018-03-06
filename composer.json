@@ -1,0 +1,26 @@
+{
+  "name": "yiban/yiban",
+  "description": "A simple and mini PHP upload class.",
+  "license":"MIT",
+  "require": {
+    "php": ">=5.6"
+  },
+  "authors": [
+    {
+      "name": "qingchen",
+      "email": "qingchen.yyj@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "yiban\\": "src/"
+    }
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+}
